@@ -1,2 +1,9 @@
 streamlit
 openai
+pandas
+openpyxl
+datetime
+random
+io
+requests
+time
